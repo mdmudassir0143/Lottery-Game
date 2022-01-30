@@ -1,5 +1,5 @@
 # Lottery-Game
-A lottery game using smart contract deploy om the Rinkeby Testnet where participants can participate in the lottery 
+A lottery game using smart contract deploy on the Rinkeby Testnet where participants can participate in the lottery.
 There will be one manager who will deploy the contract 
 Min participants should be 3 
 Min contribution 1 ether
